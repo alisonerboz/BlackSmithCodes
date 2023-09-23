@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf59c37605e496489e8720f992b17ad, type: 3}
+  m_Name: GoldenBlade
+  m_EditorClassIdentifier: 
+  id: 5
+  neydenid: 1234
+  ItemName: GoldenBlade
+  value: 1
+  icon: {fileID: 21300000, guid: 5faf153938da8de418dd7ad880c671b4, type: 3}
+  prefab: {fileID: 7532098548108516905, guid: 1f61d563bdf244c4b8ff75569423ed7f, type: 3}

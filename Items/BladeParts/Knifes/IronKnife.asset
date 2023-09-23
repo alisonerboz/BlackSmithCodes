@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf59c37605e496489e8720f992b17ad, type: 3}
+  m_Name: IronKnife
+  m_EditorClassIdentifier: 
+  id: 34
+  neydenid: 3434
+  ItemName: IronKnife
+  value: 1
+  icon: {fileID: 21300000, guid: 7404933c22f62b34787b253a3c6f80d2, type: 3}
+  prefab: {fileID: 7023486079961178362, guid: 8e6cff8087ebdf24b9cb1857d54ea37c, type: 3}
+  MoneyValue: 100
+  orderID: 0

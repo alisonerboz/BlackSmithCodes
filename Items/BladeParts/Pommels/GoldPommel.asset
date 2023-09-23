@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf59c37605e496489e8720f992b17ad, type: 3}
+  m_Name: GoldPommel
+  m_EditorClassIdentifier: 
+  id: 2
+  neydenid: 2345
+  ItemName: GoldPommel
+  value: 1
+  icon: {fileID: 21300000, guid: 69f4f24c861cfc04ebdf512792f77674, type: 3}
+  prefab: {fileID: 2556243476336944704, guid: 2e4c9e3e99c809646af4052892f4ce71, type: 3}
+  MoneyValue: 80
+  orderID: 2
